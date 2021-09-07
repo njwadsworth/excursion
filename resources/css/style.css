@@ -1,6 +1,44 @@
 .introHeader {
 
     font-size: 60px;
-    color: black;
-    text-align: center;
+    color: white;
+    font-family: Verdana;
+    font-weight: normal;
+    
+}
+
+.secondHeader {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white
+}
+.thirdHeader {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+  font-weight: normal;
+}
+
+
+body {
+
+background-color: black;
+text-align: center;
+}
+
+.downloadLink{
+  display: block;
+ 
+  color: aquamarine;
+  font-size: 16px;
+  
+}
+
+.copyright {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+  font-weight: normal;
+  text-align: right;
 }
